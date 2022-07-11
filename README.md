@@ -1,6 +1,6 @@
 # Calculadora_Gestacional
 
-Esta projeto é uma calculadora gestacional.
+Este projeto é uma calculadora gestacional.
 
 Para as mulheres que não sabem qual o período (semanas/meses) em que estão da gestação. #Que é sempre confuso, pois alguns mencionam semanas outros meses!
 
